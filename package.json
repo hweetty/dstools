@@ -1,9 +1,10 @@
 {
-  "name": "presto-balance",
+  "name": "dstools",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+  		"express": "4.x",
       "zombie": "3.x"
   },
-  "homepage": "https://github.com/hweetty/presto-balance"
+  "homepage": "https://github.com/hweetty/dstools"
 }
