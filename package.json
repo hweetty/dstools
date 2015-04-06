@@ -1,0 +1,9 @@
+{
+  "name": "presto-balance",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+      "zombie": "3.x"
+  },
+  "homepage": "https://github.com/hweetty/presto-balance"
+}
